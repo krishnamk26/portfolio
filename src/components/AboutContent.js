@@ -16,7 +16,7 @@ const AboutContent = () => {
     <div className="left">
       <h1 data-aos="fade-up">Who Am I</h1>
       <p  data-aos="fade-up"> Developed features and maintained applications using MERN stack (MongoDB, Express, React, Node.js). Developed RESTful APIs using Express and Node.js. Developed user interfaces using React.js. <p data-aos="fade-up">Implemented authentication and authorization using JSON Web Tokens. Utilized React Hooks, Context API for state management. Collaborated with UI/UX designers to develop responsive UI components. Deployed applications to Netlify(Front end) & Render(Back end)</p></p>
-      <Link to="https://drive.google.com/file/d/1057GYT5hsXNJukqjoJgWzYc7vmXGfTWk/view?usp=sharing " target="_blank"  data-aos="fade-up"><button className="btn">Resume</button></Link>
+      <Link to="https://drive.google.com/file/d/1JjGITHXHGAhSM_QbzwXEcJ3h2DcGQ8hh/view?usp=sharing " target="_blank"  data-aos="fade-up"><button className="btn">Resume</button></Link>
     </div>
     <div className="right">
       <div className="img-container">
