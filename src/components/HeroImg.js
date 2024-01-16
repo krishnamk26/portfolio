@@ -20,7 +20,7 @@ const HeroImg = () => {
     <h1 data-aos="slide-down">React Developer</h1>
     <div className="hero-btn">
       <Link data-aos="slide-left" to="/project" className="btn"> My Projects</Link>
-      <Link data-aos="slide-right" to="https://drive.google.com/file/d/1057GYT5hsXNJukqjoJgWzYc7vmXGfTWk/view?usp=sharing " target="_blank" className="btn btn-light">Download CV</Link>
+      <Link data-aos="slide-right" to="https://drive.google.com/file/d/1JjGITHXHGAhSM_QbzwXEcJ3h2DcGQ8hh/view?usp=sharing " target="_blank" className="btn btn-light">Download CV</Link>
     </div>
     </div>
   </div>;
